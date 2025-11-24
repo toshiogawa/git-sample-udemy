@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ogawatoshiaki/00_git-sample-udemy",
+      "program": "/Users/ogawatoshiaki/00_git-sample-udemy/build/Debug/outDebug"
+    }
+  ]
+}
